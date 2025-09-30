@@ -16,6 +16,15 @@ learning using the CIFAR-10 Dataset
 - This project is designed to run in a VSCode 
 terminal using a Python environment.
 
+Use 'pip install -r requirements.txt' tp install the following dependencies:
+
+```
+tensorflow==2.20.0
+numpy==2.3.3
+matplotlib==3.10.6
+keras==3.11.3
+```
+
 ## How to Use
 - To run this code, you will need to have a Python 
 environment installed on your computer. You can download "cifar_10_dataset.py" into a folder, and open the folder within VSCode.
