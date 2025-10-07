@@ -17,7 +17,7 @@
 
 - This project is designed to run in a VSCode terminal using a Python environment.
 
-Use 'pip install -r requirements.txt' tp install the following dependencies:
+Use 'pip install -r requirements.txt' to install the following dependencies:
 ```
 tensorflow==2.20.0
 numpy==2.3.3
